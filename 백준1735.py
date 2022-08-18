@@ -11,5 +11,6 @@ n = math.gcd(numerator, denominator)
 ##gcd()함수를 사용하여 분자와 분모의 최대공약수를 구함
 numerator //= n
 denominator //= n
+##기약분수 만들기(약분하기)
 
 print(numerator, denominator)
